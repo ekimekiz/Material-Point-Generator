@@ -123,11 +123,3 @@ Ensure all necessary libraries and software are installed before running the scr
    
 4. **Visualize Points and Normals:**
    - Use `visualizer.py` to visualize the generated material points and their associated normals.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README should provide clear instructions and context for anyone using your scripts. You can adjust the content to fit the specifics of your repository.
