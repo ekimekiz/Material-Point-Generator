@@ -1,9 +1,3 @@
-# Material-Point-Generator
-This repository contains Python scripts that use Gmsh to generate material and surface points from STL files, to be used in a Material Point Method solver. Tetrahedral mesh centroids serve as material points with associated volumes, while surface triangles are used to create surface points with calculated normal vectors.
-Here’s an updated README that includes detailed usage instructions, software requirements, and necessary libraries:
-
----
-
 # Material Point Discretization from STL Files
 
 This repository contains Python scripts designed to facilitate the generation of material points from STL files. The workflow involves creating tetrahedral meshes, extracting centroids and volumes for each tetrahedron, and generating surface material points with normal vectors. These scripts leverage the Gmsh API and are tailored for computational simulations that require material point discretization.
